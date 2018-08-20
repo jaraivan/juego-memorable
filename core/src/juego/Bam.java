@@ -13,7 +13,7 @@ public class Bam extends ApplicationAdapter {
     @Override
     public void create() {
         batch = new SpriteBatch();
-        img = new Texture("");
+        img = new Texture("sewer_1.png");
     }
 
     @Override
