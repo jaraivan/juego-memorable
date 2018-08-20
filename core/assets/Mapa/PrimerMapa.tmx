@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="2018.08.06" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="8">
+ <tileset firstgid="1" source="sewer_1.tsx"/>
+ <tileset firstgid="267" source="sewer_1_2.tsx"/>
+ <tileset firstgid="619" source="redone charset by antifarea 3 sides.tsx"/>
+ <layer id="1" name="Capa de Patrones 1" width="30" height="30" offsetx="-0.0568182" offsety="0">
+  <data encoding="base64" compression="zlib">
+   eJzjZmRg4KEz5gViaSCWoTOWHbV31N5Re0ftHbV31N5Re0ftHbV31F4K7eVmJL39K08l/wowQDCyHIjPB6R1sGB+KtuLjkHy2UCcBsTpQJwB5VMaN8TYWw3EZUBcDsQVUD497O2G4h4kNjXs1cYRhyCsi2QXMsanhxgMMhcAHOFroQ==
+  </data>
+ </layer>
+</map>
